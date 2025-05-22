@@ -32,4 +32,4 @@ Include screenshots of your Splunk dashboard, alerts, and Wireshark analysis.
 5. Analyze logs and packets using provided scripts and notes
 
 ## 📫 Contact
-Made by Nathan Phelan | [Your Email or LinkedIn]
+Made by Nathan Phelan | [phelannathan42@gmail.com]

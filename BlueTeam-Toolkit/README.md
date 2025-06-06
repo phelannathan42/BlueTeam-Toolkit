@@ -22,7 +22,7 @@ This project simulates a real-world blue team environment to demonstrate hands-o
 [See repository structure]
 
 ## 📸 Screenshots
-Include screenshots of your Splunk dashboard, alerts, and Wireshark analysis.
+
 
 ## 🚀 How to Reproduce
 1. Clone this repo
